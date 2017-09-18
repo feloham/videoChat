@@ -4,10 +4,14 @@
     "scripts": {
         "start": "node server.js"
     },
-    "dependencies":{
-    "express":"",
-    "socket.io":"",
-    "path":"",
-    "http":""
-     }
+   
+    "dependencies": {
+    "connect": "2.4.4",
+    "express": "https://github.com/chrisabrams/express2/tarball/master",
+   
+    "socket.io": "0.9.10",
+    "stylus": "0.29.0"
+  }
+    
+    
 }
